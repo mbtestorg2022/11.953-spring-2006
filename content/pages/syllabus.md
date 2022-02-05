@@ -41,15 +41,92 @@ Students are expected to come to class having read the assigned readings for the
 
 Students will be graded based on their performance on seven assignments, plus class participation, accordingly (as % of final grade):
 
-| Acitvities | Percentages |
-| --- | --- |
-| Assignment Introduction (Graded Pass/Fail) | 5% |
-| Assignment I | 10% |
-| Assignment II | 15% |
-| Assignment III | 15% |
-| Assignment IV | 20% |
-| Assignment V | 15% |
-| Assignment VI | 15% |
-| Class Participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Acitvities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment Introduction (Graded Pass/Fail)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment I
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment II
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment III
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment IV
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment V
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment VI
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The assignments will be a combination of individual, partner, and group projects. In particular, Assignment IV will be a group project carried out in conjunction with the Passaic Studio in Architectural Urbanism. The configuration of groups and pairs for the relevant assignments will be determined based upon class composition and student skill sets.
