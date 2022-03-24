@@ -234,7 +234,7 @@ Walters, G., R. Ewing, and W. Schroeer. "Adjusting Computer Modeling Tools to Ca
 Financial Instruments
 {{< tdclose >}}
 {{< tdopen >}}
-Krizek, K. "Transit Supportive Home Loans: Theory, Application, and Prospects for Smart Growth." _Housing Policy Debate_ 14, no. 4 (2003): 657-677. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://vehicleforasmallplanet.com/wp-content/uploads/2012/04/Transit-supportive-mortgages.pdf))  
+Krizek, K. "Transit Supportive Home Loans: Theory, Application, and Prospects for Smart Growth." _Housing Policy Debate_ 14, no. 4 (2003): 657-677. ([PDF](http://vehicleforasmallplanet.com/wp-content/uploads/2012/04/Transit-supportive-mortgages.pdf))  
   
 Blackman, A. "Testing the Rhetoric." _Regulation_ 25, no. 1 (2002): 34-38.  
   

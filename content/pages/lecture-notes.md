@@ -80,7 +80,7 @@ Metropolitan-ization Forces, Patterns and Trends, Concerns ([PDF]({{< baseurl >}
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Accessibility: The Land Use-Transportation Link (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/lect5))
+Accessibility: The Land Use-Transportation Link ([PDF - 1.4 MB]({{< baseurl >}}/resources/lect5))
 {{< tdclose >}}
 
 {{< trclose >}}
